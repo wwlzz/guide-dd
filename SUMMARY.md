@@ -1,7 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [导航](About_dida/README.md)
+* [导航](README.md)
 * [网页端](ticktick_web_app/README.md)
    * [偏好设置](ticktick_web_app/preference_settings.md)
    * [账户设置](ticktick_web_app/account_settings.md)
