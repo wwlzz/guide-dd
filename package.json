@@ -2,6 +2,6 @@
     "name": "book",
     "version": "0.0.0",
     "dependencies": {
-        "gitbook-plugin-style-rewrite": "*"
+        "gitbook-plugin-gitbook-style-rewrite": "*"
     }
 }
