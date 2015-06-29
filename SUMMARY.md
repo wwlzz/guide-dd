@@ -1,3 +1,6 @@
+# Summary
+
+* [Introduction](README.md)
 * [导航](About_dida/README.md)
 * [网页端](ticktick_web_app/README.md)
    * [账户设置](ticktick_web_app/account_settings.md)
@@ -12,7 +15,7 @@
    * [注册和登录](android_app/1_account.md)
        * [修改账户信息](android_app/1_account_change_password.md)
        * [升级到高级版](android_app/1_account_upgrade.md)
-   * [创建新的任务](android_app/2_create_new_task.md)      
+   * [创建新的任务](android_app/2_create_new_task.md)
        * [设置提醒](android_app/2_create_remind.md)
        * [设置重复周期](android_app/2_create_new_repeat.md)
    * [管理任务](android_app/3_manage_tasks.md)
@@ -23,7 +26,7 @@
    * [分享和协作](android_app/5_share_lists.md)
    * [加入日历](android_app/6_calendar.md)
    * [桌面小部件](android_app/widget.md)
-   * [更多功能](android_app/7_more_setting.md)  
+   * [更多功能](android_app/7_more_setting.md)
 * [iOS应用](ios_app/README.md)
    * [注册和登录](ios_app/1_account.md)
        * [修改账户信息](ios_app/1_account_change_password.md)

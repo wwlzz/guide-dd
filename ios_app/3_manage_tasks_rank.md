@@ -12,6 +12,4 @@
  - **<img src="../images/px5.jpg" title="指派人排序" width="20" />按指派人排序**：只在共享清单中会使用此种排序方式。为了合作完成某个项目而共享清单时可以使用这种排序方式，按任务的指派人排序，清晰明确每人的任务。
  - **<img src="../images/px6.png" title="清单排序" width="20" />按清单排序**：只在「所有」清单以及清单文件夹「所有任务」的中会使用此种排序方式。方便区分个人任务和工作任务，同时可以了解各个清单下的任务情况。
 
-在按日期排序进行拖动排序-演示视频
-<br >
-<embed src="http://player.youku.com/player.php/sid/XOTIwMzc0MTUy/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<br ><img src="../images/tuodong1.gif" title="拖动排序演示"/>

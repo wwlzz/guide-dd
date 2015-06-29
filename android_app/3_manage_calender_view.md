@@ -16,4 +16,4 @@
 <img src="/images/image3331.png" title="月视图周视图"  />
 
 ####Widget——周视图
-<img src="/images/widget1.png" title="周视图"  />
+<img src="/images/widget1.png" title="周视图" width="300" />

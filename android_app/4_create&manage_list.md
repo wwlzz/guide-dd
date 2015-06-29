@@ -61,7 +61,7 @@
 将清单以及清单内的任务标题和时间以文字的形式发送出去，适用于交代行程安排、项目进度等事件。
 <br >发送清单，只需进行以下操作：
 1. 在侧边栏中，点击清单进入清单列表
-2. 点击右上角<img src="../images/image3100.png" title="更多" width="20" />「更多图标」，选择<img src="../images/imageimage4304.jpg" title="发送清单" width="20" />「发送」
+2. 点击右上角<img src="../images/image3100.png" title="更多" width="20" />「更多图标」，选择<img src="../images/image4304.jpg" title="发送清单" width="20" />「发送」
 3. 在跳转的界面选择发送途径和对象，确认发送
 
 ####共享清单
