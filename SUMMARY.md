@@ -7,7 +7,6 @@
    * [任务创建以及管理](ticktick_web_app/task_management.md)
    * [清单管理](ticktick_web_app/list_management.md)
    * [日历订阅](ticktick_web_app/calendar_subscription.md)
-       * [日历视图](ticktick_web_app/what_is_calendar_view.md)
        * [Mini日历](ticktick_web_app/what_is_mini_calendar.md)
    * [浏览器插件](chrome_extension_app/README.md)
 * [安卓应用](android_app/README.md)
@@ -43,5 +42,4 @@
    * [更多功能](ios_app/7_more_setting.md)
 * [微信公众号](wechat/README.md)
 * [反馈](feedback/README.md)
-* [致谢](feedback/README.md)
 
