@@ -2,7 +2,7 @@
 
 ####高级账户特权：
 
-![](../images/web2-pro.png)
+![](../images/images_web2.0/pro1.png)
 
 
 ####高级账户支付说明：
@@ -16,7 +16,7 @@
 
 登录网页版，点击左上角的头像>【设置】>【高级账户】>【升级到高级账户】
 
-![](../images/web2--pro.png)
+![](../images/images_web2.0/pro2.png)
 
 
 
