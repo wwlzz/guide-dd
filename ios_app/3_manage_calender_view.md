@@ -12,4 +12,4 @@
 
 ####切换月视图/周视图
 当每日任务比较多的时候，可以上滑切至周视图，下方区域可以显示更多的任务。
-<br><img src="../images/image4331.png" title="月视图周视图" width="300" />
+<br><img src="../images/images_ios2.6/image4331.png" title="月视图周视图" width="400" />
