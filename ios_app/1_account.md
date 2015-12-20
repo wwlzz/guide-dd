@@ -6,7 +6,7 @@
 <br >*TickTick用户要使用滴答清单，需要重新注册一个滴答清单账户，然后导入TickTick账户内的任务信息。*
 <br >还没有滴答清单帐户吗？[立即免费创建](https://dida365.com/signup)
 
-<img src="../images/images_ios2.6/image4201.png" title="注册和登录" width="300"/>
+<img src="../images/images_ios2.6/image4101.png" title="注册和登录" width="300"/>
 
 <br >滴答清单为你提供两种帐户选择：免费帐户和高级帐户。
 <br >**免费帐户**
@@ -26,5 +26,3 @@
 
 ####退出登录
 如果你需要退出已登录账户，点击你的账户信息，下拉退出登录。
-
-<img src="../images/image4102.jpg" title="退出登录" width="300"/>
