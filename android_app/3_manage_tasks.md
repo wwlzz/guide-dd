@@ -60,7 +60,7 @@
 
 ####隐藏已完成的任务
 1. 选择一条任务或者新建任务，进入该任务详情页
-2. 点击右上角<img src="../images/image3100.png" title="更多" width="20" />「更多图标」，选择<img src="../images/image4407.jpg" title="隐藏已完成任务" width="100" />
+2. 点击右上角<img src="../images/images_android/image001.png" title="更多" width="20" />，选择「隐藏已完成」
 3. 隐藏之后，如果要查看任务，需要到「已完成」中查看。
 <br >```「已完成」是智能清单且默认隐藏，需要在编辑清单时开启显示后才能查看。```
 
