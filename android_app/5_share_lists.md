@@ -33,7 +33,7 @@
 可以将评论功能做为备注说明使用，或者是和共享者交流表达自己的想法。
 <br >给一个任务添加评论，只需进行以下操作：
 1. 点击任务进入任务详情界面
-2. 点击右上角<img src="../images/images_android/image001.png" title="更多" width="20" />「更多图标」，选择<img src="../images/images_android/image005.png" title="评论" width="20" />「评论」
+2. 点击右上角<img src="../images/images_android/image001.png" title="更多" width="20" />「更多图标」，选择 <img src="../images/images_android/image005.png" title="评论" width="20" />「评论」
 3. 在跳转页面上，在下方输入框中输入自己要评论的内容，点击「发送」，就可以看到评论成功发送。
 4. 点击「完成」退出评论编辑界面。
 <br >你会在任务详情页看到最新的一条评论和总评论数量。可以对自己的评论进行编辑或者删除评论。
