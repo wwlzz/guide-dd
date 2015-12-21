@@ -21,4 +21,4 @@
 
 ####桌面小部件界面
 **滴答清单周视图（4x3）**：<br >
-<img src="/images/widget1.png" width="300"/>
+<img src=".../images/widget1.png" width="300"/>
