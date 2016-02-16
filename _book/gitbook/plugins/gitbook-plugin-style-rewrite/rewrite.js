@@ -28,13 +28,10 @@ require(["gitbook", "jQuery"], function(gitbook, $) {
 
   function toggle () {
     var isMobile = /Android|iPhone|iPad|iPod|Windows Phone/i.test(navigator.userAgent);
-    if(!isMobile || !$('.with-summary').length){
-      return;
-    }else{
-      $('.book-summary').hide();
-      $('.toggle-summary').click();
-      $('.book-body').scrollTop(0);
-    }
+    if(!isMobile || !$('.with-summary').length) return;
+    $('.book').removeClass('with-summary');
+    $('.toggle-summary').click();
+    $('.book-body').scrollTop(0);
   }
 
   gitbook.events.bind("page.change", function() {
@@ -51,10 +48,10 @@ require(["gitbook", "jQuery"], function(gitbook, $) {
     }
 
     // 
-    cnzz()
+    cnzz();
 
     // 
-    toggle()
+    toggle();
   });
 
 });

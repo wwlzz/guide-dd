@@ -29,8 +29,9 @@ require(["gitbook", "jQuery"], function(gitbook, $) {
   function toggle () {
     var isMobile = /Android|iPhone|iPad|iPod|Windows Phone/i.test(navigator.userAgent);
     if(!isMobile || !$('.with-summary').length) return;
-    $('.toggle-summary').click()
-    $('.book-body').scrollTop(0)
+    $('.book').removeClass('with-summary');
+    $('.toggle-summary').click();
+    $('.book-body').scrollTop(0);
   }
 
   gitbook.events.bind("page.change", function() {
@@ -47,10 +48,10 @@ require(["gitbook", "jQuery"], function(gitbook, $) {
     }
 
     // 
-    cnzz()
+    cnzz();
 
     // 
-    toggle()
+    toggle();
   });
 
 });
