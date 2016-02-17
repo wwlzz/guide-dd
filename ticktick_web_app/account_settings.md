@@ -30,4 +30,4 @@
 ####偏好设置
 点击左上角头像>【设置】>【偏好设置】来设定你的主题、语言、时间格式、每周开始的日期、每日任务提醒的时间。
 
-![](../images/images_web2.0/preferences.png)
+![](../images/images_web2.0/preferences1.png)
