@@ -13,6 +13,6 @@
 
 ####切换月视图/周视图
 当每日任务比较多的时候，可以上滑切至周视图，下方区域可以显示更多的任务。
-<img src="../images/images_android/image3106.png" title="月视图周视图"  />
+<img src="../images/images_android/image31061.png" title="月视图周视图"  />
 
 
