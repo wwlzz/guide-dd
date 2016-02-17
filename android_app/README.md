@@ -1,4 +1,4 @@
 #安卓应用
-![](/images/dadiannao.png)
+![![](/images/dadiannao.png)](dadiannao.png)
 
 
