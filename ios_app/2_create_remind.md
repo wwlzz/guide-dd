@@ -19,7 +19,7 @@
 5. 点击日期设定界面的『清除』，可以清除任务的到期时间和提醒。
 
 目前单个任务最多可以设置五个提醒，包括准时提醒在内，同时提前提醒的时间支持自定义设置。
-<br ><img src="../images/images_ios2.6/image4205.png
+<br ><img src="../images/images_ios2.6/image42051.png
 " title="新建任务界面" width="400" />
 
 ####每日提醒
