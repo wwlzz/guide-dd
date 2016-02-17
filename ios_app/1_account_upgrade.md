@@ -16,7 +16,7 @@
 1. 在侧边栏，点击右上角<img src="../images/image4131.png" title="设置" width="20" />「齿轮标志」，进入设置；
 2. 点击「升级到高级账户」；
 3. 选择按月或者是按年来购买高级账户。
-<br ><img src="../images/image4133.jpg" title="升级2" width="300" />
+<br ><img src="../images/image41331.jpg" title="升级2" width="300" />
 
 
 如果你已经拥有滴答清单Pro兑换码，需要登录Web版滴答清单兑换。请参考[升级成高级账户](ticktick_web_app/how_to_upgrade_to_pro.md)
