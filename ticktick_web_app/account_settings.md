@@ -25,7 +25,7 @@
 滴答清单允许从其他应用内导入任务信息，比如奇妙清单、Toodledo等。
 <br/ >点击左上角头像>【设置】>【数据备份】。然后选择对应的渠道（Wunderlist,Astrid,Toodledo等等 ）上传备份文件到滴答清单。
 
-![](../images/images_web2.0/backup.png)
+![](../images/images_web2.0/backup1.png)
 
 ####偏好设置
 点击左上角头像>【设置】>【偏好设置】来设定你的主题、语言、时间格式、每周开始的日期、每日任务提醒的时间。
