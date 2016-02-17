@@ -5,7 +5,7 @@
 
 ####常见重复
 滴答清单根据几种常见的重复类型，可以根据需求快速选择按**每天/周/月/年**来重复。
-<br ><img src="../images/images_ios2.6/image4221.PNG" title="常见重复" width="300" />
+<br ><img src="../images/images_ios2.6/image42211.PNG" title="常见重复" width="300" />
 
 ####自定义重复
 如果常见重复不能满足自己的需求，可以尝试设置自定义重复。
@@ -23,15 +23,15 @@ __到期重复__：是指当前时间到达设置的时间就会提醒的重复�
 >例子：小明需要每周五下午安排下周工作，所以设置一个每周五下午都会提醒的到期重复。
 
 `小技巧:尝试设置每周的周三和周五提醒，每月的14、16和20号提醒看看。`
-<br ><img src="../images/images_ios2.6/image4223.PNG" title="到期重复" width="300" />
+<br ><img src="../images/images_ios2.6/image42231.PNG" title="到期重复" width="300" />
 
 __完成重复__：是指上次任务完成后再开始计算下次提醒时间的重复类型。
 >例子：小明想要每三天去一次健身房跑步，这一次是星期二，那么下一次会在星期五提醒他；但他星期五没有去成，星期日完成了这个任务，下一次的提醒时间是星期三，而不是星期一。
 
-<br ><img src="../images/images_ios2.6/image4222.PNG" title="完成重复" width="300" />
+<br ><img src="../images/images_ios2.6/image42221.PNG" title="完成重复" width="300" />
 
 ####结束重复
 可以选择「永不」结束重复任务或者「按日期」结束重复任务。
 <br >**按日期**：设置一个重复任务不再执行的日期，到了该日期，完成任务后不会再自动创建下一周期的任务。
-<br ><img src="../images/images_ios2.6/image4224.PNG" title="完成重复" width="300" />
+<br ><img src="../images/images_ios2.6/image42241.PNG" title="完成重复" width="300" />
 
