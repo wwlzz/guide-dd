@@ -22,4 +22,4 @@
 ####桌面小部件界面
 **滴答清单周视图（4x3）**：<br >
 
-<img src="../images/images_android/widget1s.png"  width="300"/>
+<img src="../images/images_android/widget11.png"  width="300"/>
