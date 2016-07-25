@@ -13,8 +13,8 @@
 
 ####登录
 为了保证你的数据和资料能够实时同步，请保持你的账户处于登录状态。
-<br >`TickTick的登录界面和滴答清单是不同的，请不要弄混。如果你发现下方支持的第三方平台是Google、Facebook以及Twitter，可能你在TickTick的登录界面`
-<br >点击登录界面左上角的「试用」，跳过登录，进入试用。
+<br >`TickTick的登录界面和滴答清单是不同的，如果你发现下方支持的第三方平台是Google、Facebook以及Twitter，那么你在TickTick的登录界面`
+<br >点击登录界面左上角的「试用」，可以跳过登录，进入试用。
 
 ####退出登录
 如果你需要退出已登录账户，点击你的账户信息，点击右上角<img src="../images/images_android/image001.png" title="更多" width="20" />，选择「退出登陆」。
