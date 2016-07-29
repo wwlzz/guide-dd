@@ -18,5 +18,5 @@
 <br>3. 选择按月或者是按年来购买高级账户。
 
 
-如果你已经拥有滴答清单Pro兑换码，需要登录Web版滴答清单兑换。请参考【升级成高级账户】(ticktick_web_app/how_to_upgrade_to_pro.md)
+如果你已经拥有滴答清单Pro兑换码，需要登录Web版滴答清单兑换。请参考【升级成高级账户】[](https://www.dida365.com/about/upgrade)
 
