@@ -13,7 +13,7 @@
 更多高级帐户专享功能详情，请访问[滴答清单高级帐户页面](https://dida365.com/about/upgrade)
 
 <br >应用内升级高级账户，请按以下步骤：
-<br>1. 在侧边栏，点击右上角<img src="../images/image4131.png" title="设置" width="20" />【齿轮】标志，进入设置；
+<br>1. 在侧边栏，点击右上角<img src="../images/image4131.png" title="设置" width="20" />齿轮标志，进入设置；
 <br>2. 点击【升级到高级账户】；
 <br>3. 选择按月或者是按年来购买高级账户。
 <br ><img src="../images/image4133.jpg" title="升级2" width="300" />
