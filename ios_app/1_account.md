@@ -5,7 +5,7 @@
 <br >如果你是TickTick用户，可以点击登录界面下方【切换至TickTick】登录；
 <br >*TickTick用户要使用滴答清单，需要重新注册一个滴答清单账户，然后导入TickTick账户内的任务信息。*
 <br >还没有滴答清单帐户吗？[立即免费创建](https://dida365.com/signup)
-
+![](sign in.png)
 
 <br >滴答清单为你提供两种帐户选择：免费帐户和高级帐户。
 <br >**免费帐户**
