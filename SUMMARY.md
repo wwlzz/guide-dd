@@ -1,6 +1,6 @@
 # Summary
 
-* [strat](README.md)
+* [开始使用滴答清单](README.md)
    * [关于滴答](guan_yu_dida.md)
 * [网页端](ticktick_web_app/README.md)
    * [账户设置](ticktick_web_app/account_settings.md)
