@@ -1,6 +1,6 @@
 # Summary
 
-* [导航](README.md)
+* [strat](README.md)
    * [关于滴答](guan_yu_dida.md)
 * [网页端](ticktick_web_app/README.md)
    * [账户设置](ticktick_web_app/account_settings.md)
