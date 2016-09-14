@@ -1,6 +1,7 @@
 # Summary
 
 * [导航](README.md)
+* [关于滴答](guan_yu_di_da.md)
 * [网页端](ticktick_web_app/README.md)
    * [账户设置](ticktick_web_app/account_settings.md)
        * [升级成高级账户](ticktick_web_app/how_to_upgrade_to_pro.md)
@@ -40,6 +41,5 @@
    * [加入日历](ios_app/6_calendar.md)
    * [更多功能](ios_app/7_more_setting.md)
 * [微信公众号](wechat/README.md)
-* [关于滴答](guan_yu_di_da.md)
 * [反馈](feedback/README.md)
 
