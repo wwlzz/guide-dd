@@ -4,7 +4,7 @@
    * [关于滴答](guan_yu_dida.md)
 * [网页端](ticktick_web_app/README.md)
    * [账户设置](ticktick_web_app/account_settings.md)
-       * [升级成高级账户](ticktick_web_app/how_to_upgrade_to_pro.md)
+   * [升级成高级账户](ticktick_web_app/how_to_upgrade_to_pro.md)
    * [任务创建以及管理](ticktick_web_app/task_management.md)
    * [清单管理](ticktick_web_app/list_management.md)
    * [日历订阅](ticktick_web_app/calendar_subscription.md)
