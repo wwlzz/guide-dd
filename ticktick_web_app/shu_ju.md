@@ -10,8 +10,7 @@
 
 滴答清单可以从其他应用导入任务信息。
 <br/ >点击左上角头像-【设置】-【数据备份】。然后选择对应的渠道（Wunderlist,Astrid,Toodledo等等 ）上传备份文件到滴答清单。
-
-![](../images/images_web2.0/backup.png)
+![](web-backup.png)
 
 ####账户迁移
 <br >如果你是 TickTick 用户，现在准备转到滴答清单，或已经开始使用滴答清单，可以进行数据迁移。
