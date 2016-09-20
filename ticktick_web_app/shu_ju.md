@@ -14,7 +14,6 @@
 ![](../images/images_web2.0/backup.png)
 
 ####账户迁移
-<br >为什么要迁移？
 <br >如果你是 TickTick 用户，现在使用滴答清单，可以进行数据迁移。
 
 如何迁移？
