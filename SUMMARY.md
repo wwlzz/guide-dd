@@ -9,7 +9,6 @@
    * [日历管理](ticktick_web_app/calendar_subscription.md)
    * [数据](ticktick_web_app/shu_ju.md)
    * [浏览器插件](chrome_extension_app/README.md)
-   * [升级成高级账户](ticktick_web_app/how_to_upgrade_to_pro.md)
 * [安卓应用](android_app/README.md)
    * [注册和登录](android_app/1_account.md)
        * [修改账户信息](android_app/1_account_change_password.md)
