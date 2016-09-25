@@ -15,7 +15,7 @@
        * [修改账户信息](android_app/1_account_change_password.md)
        * [升级到高级版](android_app/1_account_upgrade.md)
    * [创建及管理清单](android_app/4_create&manage_list.md)
-   * [创建新的任务](android_app/2_create_new_task.md)
+   * [创建任务](android_app/2_create_new_task.md)
        * [设置提醒](android_app/2_create_remind.md)
        * [设置重复周期](android_app/2_create_new_repeat.md)
    * [管理任务](android_app/3_manage_tasks.md)
