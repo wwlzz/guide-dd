@@ -19,7 +19,6 @@
        * [设置提醒](android_app/2_create_remind.md)
        * [设置重复周期](android_app/2_create_new_repeat.md)
    * [管理任务](android_app/3_manage_tasks.md)
-       * [使用标签](android_app/3_manage_tasks_tags.md)
        * [合理排序](android_app/3_manage_tasks_rank.md)
        * [日历视图](android_app/3_manage_calender_view.md)
    * [分享和协作](android_app/5_share_lists.md)
