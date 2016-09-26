@@ -13,7 +13,7 @@
 * [安卓应用](android_app/README.md)
    * [注册和登录](android_app/1_account.md)
        * [修改账户信息](android_app/1_account_change_password.md)
-       * [更多功能](android_app/7_more_setting.md)
+       * [偏好设置和高级选项](android_app/7_more_setting.md)
        * [升级到高级版](android_app/1_account_upgrade.md)
    * [创建及管理清单](android_app/4_create&manage_list.md)
    * [创建任务](android_app/2_create_new_task.md)
