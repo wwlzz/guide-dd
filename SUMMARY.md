@@ -21,7 +21,6 @@
    * [管理任务](android_app/3_manage_tasks.md)
    * [日历](android_app/3_manage_calender_view.md)
    * [分享和协作](android_app/5_share_lists.md)
-   * [加入日历](android_app/6_calendar.md)
    * [桌面小部件](android_app/widget.md)
    * [更多功能](android_app/7_more_setting.md)
 * [iOS应用](ios_app/README.md)
