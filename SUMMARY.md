@@ -12,7 +12,7 @@
    * [浏览器插件](chrome_extension_app/README.md)
 * [安卓应用](android_app/README.md)
    * [账户设置](android_app/1_account.md)
-       * [偏好设置和高级选项](android_app/7_more_setting.md)
+       * [偏好设置](android_app/7_more_setting.md)
        * 高级选项
        * [升级到高级版](android_app/1_account_upgrade.md)
    * [创建及管理清单](android_app/4_create&manage_list.md)
