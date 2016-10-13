@@ -3,11 +3,5 @@
 
 
 
-您可以在这里找到安卓版滴答清单的功能介绍和使用方法，如果没有解决您的疑问，请至[论坛](http://help.dida365.com/questions)反馈，或发邮件到support@dida365.com
+您可以在这里找到 iOS 版滴答清单的功能介绍和使用方法，如果没有解决您的疑问，请至[论坛](http://help.dida365.com/questions)反馈，或发邮件到support@dida365.com
 
-
-
-
-
-向朋友们推荐滴答清单，扫描一下二维码，下载滴答清单iOS版：
-![](../images/xzios.png)
