@@ -26,7 +26,7 @@
    * [桌面小部件](android_app/widget.md)
 * [iOS应用](ios_app/README.md)
    * [注册和登录](ios_app/1_account.md)
-       * [个人设置](ios_app/1_account_change_password.md)
+       * [偏好设置](ios_app/1_account_change_password.md)
        * [升级到高级版](ios_app/1_account_upgrade.md)
    * [创建新的任务](ios_app/2_create_new_task.md)
        * [设置提醒](ios_app/2_create_remind.md)
