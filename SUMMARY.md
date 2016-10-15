@@ -33,7 +33,6 @@
        * [设置提醒](ios_app/2_create_remind.md)
        * [设置重复任务](ios_app/2_create_new_repeat.md)
    * [管理任务](ios_app/3_manage_tasks.md)
-       * [合理排序](ios_app/3_manage_tasks_rank.md)
        * [日历视图](ios_app/3_manage_calender_view.md)
    * [分享和协作](ios_app/5_share_lists.md)
    * [加入日历](ios_app/6_calendar.md)
