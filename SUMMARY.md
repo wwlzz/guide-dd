@@ -11,7 +11,7 @@
    * [筛选](ticktick_web_app/shai_xuan.md)
    * [浏览器插件](chrome_extension_app/README.md)
 * [安卓应用](android_app/README.md)
-   * [账户设置](android_app/1_account.md)
+   * [注册和登录](android_app/1_account.md)
    * [偏好设置](android_app/7_more_setting.md)
    * [高级选项](android_app/gao_ji_xuan_xiang.md)
    * [清单](android_app/4_create&manage_list.md)
