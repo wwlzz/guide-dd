@@ -2,7 +2,7 @@
 
 你可以根据自己的使用习惯来进行设置，更加便于使用。
 
-![](Preferences  Settings.png)
+![](Android-Preferences  Settings.png)
 
 ####字体大小
 滴答清单提供两种字体大小选择：【标准】和【大号】
