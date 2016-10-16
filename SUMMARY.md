@@ -36,7 +36,6 @@
        * [日历视图](ios_app/3_manage_calender_view.md)
    * [分享和协作](ios_app/5_share_lists.md)
    * [加入日历](ios_app/6_calendar.md)
-   * [更多功能](ios_app/7_more_setting.md)
 * [微信公众号](wechat/README.md)
 * [反馈](feedback/README.md)
 
