@@ -25,7 +25,7 @@
    * [分享和协作](android_app/5_share_lists.md)
    * [桌面小部件](android_app/widget.md)
 * [iOS应用](ios_app/README.md)
-   * [注册和登录](ios_app/1_account.md)
+   * [账户设置](ios_app/1_account.md)
        * [偏好设置](ios_app/1_account_change_password.md)
        * [高级选项](ios_app/1_account_upgrade.md)
    * [创建及管理清单](ios_app/4_create&manage_list.md)
