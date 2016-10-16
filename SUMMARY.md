@@ -13,7 +13,6 @@
 * [安卓应用](android_app/README.md)
    * [注册和登录](android_app/1_account.md)
    * [偏好设置](android_app/7_more_setting.md)
-   * 账户设置
    * [高级选项](android_app/gao_ji_xuan_xiang.md)
    * [清单](android_app/4_create&manage_list.md)
        * [创建及管理清单](android_app/chuang_jian_qing_dan.md)
