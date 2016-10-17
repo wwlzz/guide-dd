@@ -97,5 +97,5 @@
 
 ![](Share List0.png)
 
-更多与分享相关的内容请参考下一章 [3.5 分享与协作](ios_app/5_share_lists.md)
+更多与分享相关的内容请参考下一章 [3.5 分享与协作](../ios_app/5_share_lists.md)
 
