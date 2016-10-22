@@ -8,7 +8,7 @@
 
 在智能清单中创建的任务将会归在收集箱中；如果你创建在其它非智能清单中，则会保存到对应的清单下。<br>`任务创建后，就会自动保存到滴答清单并同步到所有设备。`
 
-你可以给任务设定[优先级]()、[任务时间和提醒](2_create_remind.md) 。
+你可以给任务设定[优先级](3_manage_tasks.md)、[任务时间和提醒](2_create_remind.md) 。
 
 <br ><img src="../images/images_android/image3103.png" title="新建任务界面" width="300" />
 
