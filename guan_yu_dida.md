@@ -14,7 +14,7 @@
 立即安装滴答清单到所有设备：
 <br >[Iphone](https://itunes.apple.com/cn/app/di-da-qing-dan-dai-ban-shi/id626144601?mt=8)
 、[Android](https://www.dida365.com/static/getApp/download?type=apk)
-、[Mac](https://www.dida365.com/static/getApp/download?type=apk)
+、[Mac](https://dida365.com/static/getApp/download?type=mac)
 、[Chrome插件和应用](http://www.dida365.com/about/crxDownload)
 、[Firefox插件](https://addons.mozilla.org/zh-CN/firefox/addon/%E6%BB%B4%E7%AD%94%E6%B8%85%E5%8D%95/)
 
