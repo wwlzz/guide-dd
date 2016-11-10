@@ -9,5 +9,5 @@
 
 
 #联系我们
-<br >如果在这里没有解决你的问题，或对我们有什么建议，你可以在[帮助论坛](http://help.dida365.com/forum/)发起提问，或者直接发送邮件到 support@dida365.com
+<br >如果在这里没有解决你的问题，或对我们有什么建议，你可以在[论坛](http://help.dida365.com/forum/)发起提问，或者直接发送邮件到 support@dida365.com
 
