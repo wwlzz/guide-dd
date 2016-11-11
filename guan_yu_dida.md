@@ -11,7 +11,7 @@
 
 ##3. 下载最新版本的滴答清单
 立即安装滴答清单到所有设备：
-<br >[Iphone](https://itunes.apple.com/cn/app/di-da-qing-dan-dai-ban-shi/id626144601?mt=8)
+<br >[iPhone](https://itunes.apple.com/cn/app/di-da-qing-dan-dai-ban-shi/id626144601?mt=8)
 、[Android](https://www.dida365.com/static/getApp/download?type=apk)
 、[Mac](https://dida365.com/static/getApp/download?type=mac)
 、[Chrome插件和应用](http://www.dida365.com/about/crxDownload)
@@ -51,4 +51,4 @@
 
 
 ##7.  滴答清单有开放API吗?
-目前，我们暂未正式公开滴答清单的API; 但是我们有这样的计划, 以便让更多的人可以写出更多能和滴答清单集成的优秀应用。
+目前，我们暂未正式公开滴答清单的 API； 但是我们有这样的计划, 以便让更多的人可以写出更多能和滴答清单集成的优秀应用。
