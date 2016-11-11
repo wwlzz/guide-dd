@@ -27,7 +27,7 @@
        * [偏好设置](ios_app/1_account_change_password.md)
        * [高级选项](ios_app/1_account_upgrade.md)
    * [创建及管理清单](ios_app/4_create&manage_list.md)
-   * [创建新的任务](ios_app/2_create_new_task.md)
+   * [创建任务](ios_app/2_create_new_task.md)
        * [设置提醒](ios_app/2_create_remind.md)
        * [设置重复任务](ios_app/2_create_new_repeat.md)
    * [管理任务](ios_app/3_manage_tasks.md)
