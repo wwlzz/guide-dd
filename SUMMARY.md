@@ -35,6 +35,6 @@
   * [分享和协作](ios_app/5_share_lists.md)
 * [微信公众号](wechat/README.md)
 * [自定义智能清单特殊规则](filter/README.md)
-* [智能日期识别规则示例](csl/README.md)
+* [智能日期识别规则示例](nlp/README.md)
 * [反馈](feedback/README.md)
 
