@@ -25,6 +25,7 @@
 * [iOS应用](ios_app/README.md)
   * [账户设置](ios_app/1_account.md)
     * [偏好设置](ios_app/1_account_change_password.md)
+    * [安全与数据](ios_app/an-quan-yu-shu-ju.md)
     * [高级选项](ios_app/1_account_upgrade.md)
   * [创建及管理清单](ios_app/4_create&manage_list.md)
   * [创建任务](ios_app/2_create_new_task.md)
