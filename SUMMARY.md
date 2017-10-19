@@ -37,5 +37,6 @@
 * [微信公众号](wechat/README.md)
 * [自定义智能清单特殊规则](filter/README.md)
 * [智能日期识别规则示例](nlp/README.md)
+* [成就值与统计](cheng-jiu-zhi-yu-tong-ji.md)
 * [反馈](feedback/README.md)
 
