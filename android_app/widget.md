@@ -10,19 +10,19 @@
 
 * 滴答清单 （标准）
 
-![](widget/widget3.png) 
+![](widget/widget 3.png) 
 
 * 滴答清单 （紧凑）
 
-![](widget/widget4.png) 
+![](widget/widget 4.png) 
 
 * 滴答清单 （翻页）
  
-![](widget5.png)
+![](widget/widget 5.png)
 
 * 滴答清单 （角标）
 
-![](widget6.png)
+![](widget/widget 6.png)
 
 您可以根据自己的喜好，使用习惯和桌面空间来自行选择。选择合适的小部件能提高效率，方便使用。
 
