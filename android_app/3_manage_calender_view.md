@@ -44,5 +44,5 @@
 `注：账号订阅最多支持3个，URL 订阅最多支持5个，如果不需要再使用可以更改或者删除订阅。`  
 `注：此功能仅对付费用户开放。`
 
-![](Calendar/slide.png)
+![](Calendar/subscribe.png)
 
