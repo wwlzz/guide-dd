@@ -21,7 +21,7 @@
 <br>点击您的头像-【账户信息】-玩转微信公众号，按照提示绑定微信即可。
 <br>`注：滴答清单目前无法绑定 QQ 号和新浪微博账号。`
 
-![](Android-Binding information.png)
+![](Register and login/Binding information.png)
 
 * 退出登录
 
