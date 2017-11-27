@@ -2,7 +2,7 @@
 
 你可以根据自己的使用习惯来进行设置，更加便于使用。
 
-![](Preferences\Preferences  Settings.png)
+![](Preferences\Preferences Settings.png)
 
 ####语言
 
