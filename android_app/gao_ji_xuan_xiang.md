@@ -6,7 +6,7 @@
 
 在侧边栏中，进入【设置】-【高级选项】，启用【快速添加】。
 
-![](Android-Quick add.png)
+![](Advanced Setting/Quick add.png)
 
 ####剪贴板添加任务
 
