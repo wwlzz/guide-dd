@@ -6,7 +6,7 @@
 您可以使用邮箱注册滴答清单，还可以通过 QQ 、微信、新浪微博账号登录到滴答清单。
 <br >还没有滴答清单帐户吗？[立即免费创建](https://dida365.com/signup)
 
-![](Android-sign.png)
+![](Register and login/sign.png)
 
 * 登录
 
@@ -27,7 +27,7 @@
 
 如果你需要退出登录，点击头像-【账户信息】，点击右上角「更多」按钮，选择【退出登录】即可。
 
-![](sign out.png)
+![](Register and login/sign out.png)
 
 * 免费帐户
 
@@ -46,11 +46,11 @@
 在打开的网页中输入你的注册邮箱，点击重置密码。
 <br >去你的注册邮箱查收邮件，按照邮件里的指示重新设置密码即可。
 
-![](forget password.png)
+![](Register and login/forget password.png)
 
 ####个人设置
 
-![](Personal settings.png)
+![](Register and login/Personal settings.png)
 
 * 上传头像
 
