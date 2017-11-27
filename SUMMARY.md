@@ -22,7 +22,7 @@
   * [管理任务](android_app/3_manage_tasks.md)
   * [日历](android_app/3_manage_calender_view.md)
   * [桌面小部件](android_app/widget.md)
-  * 番茄计时
+  * [番茄计时](android_app/fan-qie-ji-shi.md)
 * [iOS应用](ios_app/README.md)
   * [账户设置](ios_app/1_account.md)
     * [偏好设置](ios_app/1_account_change_password.md)
