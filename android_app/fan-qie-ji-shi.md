@@ -20,7 +20,6 @@
 
 ![](android-Pomo setting.png)
 
-![](android-Pomo enabled.png)
 ####开始番茄
 
 启用番茄计时后，你可以从侧边栏、任务详情、提醒弹窗开始番茄。
