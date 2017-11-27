@@ -20,7 +20,7 @@
 
 `注：状态栏中的文字颜色可选，支持默认、黑色和白色。`
 
-![](Status Bar.png)
+![](Advanced Setting/Status Bar.png)
 
 ####悬浮球
 
