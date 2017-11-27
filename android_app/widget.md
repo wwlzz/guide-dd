@@ -6,15 +6,15 @@
 
 * 滴答清单 （月）
 
-![](widget 2.png)
+![](widget/widget 2.png)
 
 * 滴答清单 （标准）
 
-![](widget3.png) 
+![](widget/widget3.png) 
 
 * 滴答清单 （紧凑）
 
-![](widget4.png) 
+![](widget/widget4.png) 
 
 * 滴答清单 （翻页）
  
