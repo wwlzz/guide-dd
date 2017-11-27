@@ -8,6 +8,10 @@
 
 ![](widget/widget 2.png)
 
+* 滴答清单 （三日）
+
+![](widget/widget 7.png)
+
 * 滴答清单 （标准）
 
 ![](widget/widget 3.png) 
@@ -23,10 +27,6 @@
 * 滴答清单 （角标）
 
 ![](widget/widget 6.png)
-
-* 滴答清单 （三日）
-
-![](widget/widget 7.png)
 
 您可以根据自己的喜好，使用习惯和桌面空间来自行选择。选择合适的小部件能提高效率，方便使用。
 
