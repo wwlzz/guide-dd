@@ -6,7 +6,7 @@
 您可以使用邮箱注册滴答清单，还可以通过 QQ 、微信、新浪微博账号登录到滴答清单。
 <br >还没有滴答清单帐户吗？[立即免费创建](https://dida365.com/signup)
 
-![](Android-sign.png)
+![](Register and login/sign.png)
 
 * 登录
 
