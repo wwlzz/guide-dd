@@ -22,7 +22,7 @@
 
 * 滴答清单 （翻页）
  
-![](widget/widget 5.png)
+![](widget/widget 5.png) 
 
 * 滴答清单 （角标）
 
