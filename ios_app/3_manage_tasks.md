@@ -110,4 +110,7 @@
 * 指派人改动记录
 * 任务的完成日期
 
+![](iOS-Task activities2.png)
+
+
 
