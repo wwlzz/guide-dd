@@ -1,7 +1,7 @@
 ###设置提醒
 为你创建的任务设置提醒，就不会遗漏重要事项了。
 
-![](Reminder/Setting time.png)
+![](Reminder/sttting time.png)
 
 根据设置好的时间，任务会出现在【今天】【最近7天】等智能清单中。  
 
