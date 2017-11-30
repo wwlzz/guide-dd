@@ -14,7 +14,7 @@
 若不需要任务提醒，您可以清除任务的到期时间和提醒。
 <br>点击任务日期栏，点击右上角的<img src="../images/images_android/image001.png" title="更多" width="20" />，选择【清除日期】即可，任务会清除到期日，也不再提醒。
 
-![](Task/Reminder/Clear Reminder.png)
+![](Task/Reminder/Clear reminder.png)
 
 ####每日提醒
 每日提醒会在每日一个固定时间提醒您所有未完成以及当天需完成的任务。
