@@ -37,7 +37,7 @@
 <br >按住右边的「≡」可以对子任务进行拖动排序。
 <br >`注：高级账户每个任务不限子任务数（免费账户最多19个）。`
 
-![](Task/List task.png)
+![](Task/List Task.png)
 
 ###添加附件
 点击任务进入任务详情界面- 点击右上角<img src="../images/images_android/image001.png" title="更多" width="20" />图标-【附件】，即可上传：
