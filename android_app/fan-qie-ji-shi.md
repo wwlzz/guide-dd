@@ -4,7 +4,7 @@
 
 在侧边栏点击【设置】图标，进入设置界面后点击【番茄计时】并开启开关项即可。（番茄计时默认关闭）
 
-![](android-Pomo enabled.png)
+![](Pomo/Pomo enabled.png)
 
 ####更改番茄计时选项
 
