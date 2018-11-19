@@ -118,3 +118,9 @@
 
 ![iostaskactivities2](../images/ios/managetask/taskactivity2.jpg)
 
+#### 任务倒数日
+
+在任务列表找到想要查看倒数日的任务，点击任务右侧的截止日期，会自动切换到任务倒数日。 不需要时，可以再次点击任务右侧的倒数日，切换回截止日期的显示。
+
+![ioscountdown](../images/ios/managetask/ioscountdown.jpg)
+
