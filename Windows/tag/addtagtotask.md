@@ -4,11 +4,11 @@
 
 ![wintagtask1](../../images/Windows/tag/pasted%20image%200.png)
 
-当任务已经有至少一个标签后，在任务详情页，标签的右侧会出现一个【+】按钮，点击后也可直接添加新标签。
+当任务已经有至少一个标签后，在任务详情页，标签的右侧会出现一个「+」按钮，点击后也可直接添加新标签。
 
 ![wintagtask2](../../images/Windows/tag/pasted%20image%200%201.png)
 
-或者点击任务详情页右下角的【...】-【标签】，然后为当前任务添加标签。
+或者点击任务详情页右下角的「···」-「标签」，然后为当前任务添加标签。
 
 ![wintagtask3](../../images/Windows/tag/pasted%20image%200%202.png)
 
