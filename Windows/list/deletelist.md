@@ -2,5 +2,5 @@
 
 如果您想要从滴答清单中删除某一清单，可以点击左侧边栏上清单名右侧的「...」图标，然后点击「删除」。 `注：本操作将会删除该清单及清单下的任务。`
 
-![windeletelist](../../images/Windows/list/pasted%20image%200%2015.png)
+![windeletelist](../../images/Windows/list/2.13.png)
 

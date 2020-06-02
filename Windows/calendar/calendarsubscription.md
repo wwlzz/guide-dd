@@ -4,17 +4,17 @@
 
 订阅谷歌日历：登录谷歌账号，允许滴答清单订阅谷歌日历，即可完成订阅。 通过链接订阅日历：选择「URL地址」，在弹窗中输入你想订阅日历的URL，即可完成订阅。 `注：该功能为高级账户功能。`
 
-![win3party1](../../images/Windows/calendar/pasted%20image%200%208.png)
+![win3party1](../../images/Windows/calendar/4.8.png)
 
 点击「编辑」可以选择日历事件的状态显示、在日历中显示、隐藏。如果不想再订阅该日历；也可以选择「取消订阅」。 `注：日历事件的状态为"显示"和"在日历中显示"时可以显示在日历中，日历事件只有为"显示"时才可以在“所有”、“今天”等智能清单中显示。`
 
-![win3partycal2](../../images/Windows/calendar/pasted%20image%200%209.png)
+![win3partycal2](../../images/Windows/calendar/4.9.png)
 
-![win3partycal3](../../images/Windows/calendar/pasted%20image%200%2010.png)
+![win3partycal3](../../images/Windows/calendar/4.10.png)
 
 订阅的日历会显示在侧边栏上，点击日历名称，可以查看日历中的任务，但不能进行修改。
 
 点击日历名称后面的「...」，选择「编辑」，可以对日历的状态进行编辑。
 
-![win3partycal4](../../images/Windows/calendar/pasted%20image%200%2011.png)
+![win3partycal4](../../images/Windows/calendar/4.11.png)
 

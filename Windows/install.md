@@ -2,7 +2,7 @@
 
 您可以在滴答清单官网下载 Windows 客户端，下载地址：[https://dida365.com/static/getApp/download?type=win](https://dida365.com/static/getApp/download?type=win)
 
-![windld1](../images/Windows/windownload1.png)
+![windld1](../images/Windows/windld1.png)
 
 下载完成之后，双击安装文件，然后按照安装指引下一步完成安装。
 

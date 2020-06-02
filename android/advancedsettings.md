@@ -13,13 +13,13 @@
 
 滴答清单提供两种字体大小选择：「标准」和「大号」。 偏好设置页面点击「字体大小」并选择适合自己的字体大小。
 
-![](../images/android/font%20size.png)
+![](../images/android/fontsize.png)
 
 #### 星期开始于
 
 偏好设置页面点击「星期开始于」，您可以设置日历中的星期开始日期，目前有周六、周日和周一可以选择。
 
-![](../images/android/week%20start.png)
+![](../images/android/weekstart.png)
 
 #### 农历与节假日
 
@@ -33,7 +33,7 @@
 
 `注：新任务默认设置对应用、小部件和状态栏生效，但智能清单“今天”、“明天”、“最近7天”和日历不受默认日期的影响。`
 
-![](../images/android/Screenshot_20180528-161900.png)
+![](../images/android/xinrenwu.png)
 
 #### 快捷方式
 
@@ -53,15 +53,15 @@
 
 #### 已过期任务的位置
 可手动选择已过期任务的显示位置，包括：清单顶部、清单底部。
-![overduetaskshow](../images/android/settings/overduetaskshow.jpg)
+![overduetaskshow](../images/android/setting/overduetaskshow.png)
 
 #### 倒数日模式
 启用后，清单内任务右侧的日期，将显示为倒数日。您可以点击任务右侧的倒数日或日期进行切换。
-![countdown](../images/android/settings/countdown.jpg)
+![countdown](../images/android/setting/countdown.png)
 
 #### 手势密码
 开启手势密码，然后为滴答清单设置一个手势密码，以后每次打开应用时需要先进行解锁。
-![swiftlock](../images/android/settings/swiftlock.jpg)
+![swiftlock](../images/android/setting/swiftlock.png)
 
 #### 数据导入
 

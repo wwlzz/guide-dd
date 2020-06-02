@@ -4,5 +4,5 @@
 
 点击左侧边栏上清单名右侧的「...」图标，选择「关闭」即可，关闭清单中的任务不会再提醒。 `注：在已关闭的清单中可以重新开启任意清单。`
 
-![wincloselist](../../images/Windows/list/pasted%20image%200%2014.png)
+![wincloselist](../../images/Windows/list/2.12.png)
 

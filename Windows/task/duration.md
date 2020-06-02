@@ -4,5 +4,5 @@
 
 跨天任务也可以设置提醒，提醒是根据开始时间设置的。
 
-![winduration](../../images/Windows/task/pasted%20image%200%205.png)
+![winduration](../../images/Windows/task/3.4.png)
 

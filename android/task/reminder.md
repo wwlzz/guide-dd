@@ -2,19 +2,19 @@
 
 为你创建的任务设置提醒，就不会遗漏重要事项了。
 
-![](../../images/android/task/Setting%20time.png)
+![](../../images/android/task/Settingtime.png)
 
 根据设置好的时间，任务会出现在「今天」「最近7天」等智能清单中。
 
 进入任务详情页，设置好时间后，会自动设定任务提醒。如果需要多个提醒，可以手动添加提醒时间，滴答清单支持自定义提醒时间：如提前45分钟、提前4个小时等。 <br>`注：高级账户单个任务最多可以设置五个提醒，免费账户可以设置两个。`
 
-![](../../images/android/task/Set%20alert.png)
+![](../../images/android/task/Setalert.png)
 
 #### 清除任务的到期时间和提醒
 
 若不需要任务提醒，您可以清除任务的到期时间和提醒。 <br>点击任务日期栏，点击右上角的<img src="../../images/android/task/image001.png" title="更多" width="20" />，选择「清除日期」即可，任务会清除到期日，也不再提醒。
 
-![](../../images/android/task/Clear%20reminder.png)
+![](../../images/android/task/reminder.png)
 
 #### 每日提醒
 
@@ -32,7 +32,7 @@
 
 「设置」-「声音与提醒」-「提醒弹窗」，开启「提醒弹窗」，每次提醒时会弹出一个窗口。
 
-![](../../images/android/task/Remind%20pop.png)
+![](../../images/android/task/Remind20pop.png)
 
 #### 常驻状态栏
 

@@ -4,5 +4,5 @@
 
 如果您在左侧边栏中找不到「标签」，可以去「设置」-「智能清单」- 选择开启「在侧边栏显示并添加标签」 。
 
-![wintag1](../../images/Windows/tag/pasted%20image%200%2012.png)
+![wintag1](../../images/Windows/tag/5.1.png)
 

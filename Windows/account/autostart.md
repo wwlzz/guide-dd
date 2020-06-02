@@ -4,5 +4,5 @@
 
 如果您想开机主界面自动弹出来，关闭「开机启动至托盘」开关项即可。
 
-![winziqidong](../../images/Windows/account/pasted%20image%200%206.png)
+![winziqidong](../../images/Windows/account/1.1.7.png)
 

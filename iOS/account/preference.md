@@ -23,7 +23,7 @@ iOS 10及以上系统的手机可以更换应用的图标。
 
 ![iostheme5](../../images/ios/account/theme5.jpg)
 
-### 偏好设置
+### 更多设置
 
 
 #### 语言

@@ -6,11 +6,11 @@
 
 拖动任务放到「今天」、「明天」、「最近7天」智能清单中，任务会带上对应的时间。比如昨天晚上9点的任务拖动到「今天」智能清单中，该任务的时间会变成今天晚上9点。
 
-![windnd1](../../images/Windows/task/pasted%20image%200%2013.png)
+![windnd1](../../images/Windows/task/3.12.png)
 
 ##### 拖动任务到标签
 
 拖动任务左侧按钮，然后将任务拖动到侧边栏标签上，放手之后，任务会加上对应的标签。
 
-![windnd2](../../images/Windows/task/pasted%20image%200%2014.png)
+![windnd2](../../images/Windows/task/3.13.png)
 

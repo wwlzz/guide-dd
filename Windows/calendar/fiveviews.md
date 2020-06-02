@@ -4,11 +4,11 @@
 
 设置后，点击「日历」，就可以进入日历视图查看每月任务；当某天的任务比较多，显示不下时，对应的网格会显示“更多”，点击“更多”展开当天的全部任务。
 
-![wincal1](../../images/Windows/calendar/pasted%20image%200%207.png)
+![wincal1](../../images/Windows/calendar/4.7.png)
 
 在日历页面上方有周视图和月视图的切换按钮，点击即可切换到周视图，直接查看一周任务。周视图分为全天任务区域和时间轴区域。
 
 全天任务区域显示当天的全天任务和跨天任务，任务比较多的时候可以把全天区域整个展开。
 
-![wincal2](../../images/Windows/calendar/pasted%20image%200.png)
+![wincal2](../../images/Windows/calendar/4.12.png)
 

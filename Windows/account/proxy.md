@@ -4,7 +4,7 @@
 
 在登录界面，点击底部的「网络代理设置」，然后根据需要进行设置。
 
-![](../../images/Windows/account/pasted%20image%200.png)
+![](../../images/Windows/account/1.1.1.png)
 
-![](../../images/Windows/account/pasted%20image%200%202.png)
+![](../../images/Windows/account/1.1.3.png)
 

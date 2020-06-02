@@ -6,5 +6,5 @@
 
 `注：开启「隐藏」开关，该清单中的任务将不会在智能清单中显示，但任务到期时依然会提醒。` `注：免费账户的普通清单，限制为 9 个。`
 
-![winnormallist](../../images/Windows/list/pasted%20image%200%205.png)
+![winnormallist](../../images/Windows/list/2.1.png)
 

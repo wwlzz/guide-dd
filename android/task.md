@@ -10,13 +10,13 @@
 
 `注：在主界面底部 TAB 栏点击【设置】图标，进入设置界面后点击【快速添加任务】，可以关闭【快速添加】。`
 
-![](../images/android/add%20task.png)
+![](../images/android/add20task.png)
 
 在智能清单中创建的任务将会归在收集箱中；如果你创建在其它非智能清单中，则会保存到对应的清单下。 `注：任务创建后，就会自动保存到滴答清单并同步到所有设备。`
 
 你可以给任务设定[优先级](managetask.md)、[任务时间和提醒](task/reminder.md) 。
 
-![](../images/android/Task%20default.png)
+![](../images/android/Task20default.png)
 
 #### 自然语言识别
 
@@ -24,7 +24,7 @@
 
 文本中不需要显示日期和时间，点击【设置】-【快速添加任务】-【智能识别】，开启【移除任务文本中的日期】即可。
 
-![](../images/android/language%20identification.png)
+![](../images/android/language identification.png)
 
 #### 语音输入
 

@@ -8,9 +8,9 @@
 
 `注：「收集箱」不能被隐藏。`
 
-![winlistmange1](../../images/Windows/list/pasted%20image%200%2011.png)
+![winlistmange1](../../images/Windows/list/2.2.png)
 
 拖动智能清单: 在智能清单区域拖动，即可改变智能清单的排序。
 
-![winlistmange2](../../images/Windows/list/pasted%20image%200.png)
+![winlistmange2](../../images/Windows/list/2.3.png)
 

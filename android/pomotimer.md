@@ -3,7 +3,7 @@
 #### 开启/关闭番茄计时
 
 在设置中，找到「选项卡」的入口，点击进入后，开启「番茄计时」即可。
-![enablepomo](../images/android/pomo/enablepomo.jpg)
+![enablepomo](../images/android/pomo/enablepomo.png)
 
 #### 更改番茄计时选项
 
@@ -18,7 +18,7 @@
 * **番茄铃声**：设置一个喜欢的番茄铃声。
 * 开启/关闭“**屏幕常亮**”：倒计时过程中，阻止系统锁屏。
 * **专注模式**：启用后，在番茄计时的专注进程中退出应用，将不会获得当前番茄。
-![pomosettings](../images/android/pomo/pomosettings.jpg)
+![pomosettings](../images/android/pomo/pomosettings.png)
 
 #### 开始番茄
 
@@ -28,7 +28,7 @@
 * 任务详情：点击任务进入详情，点击右上角「菜单」图标，点击「开始番茄」进入倒计时状态。
 * 提醒弹窗：提醒响起时，点击提醒弹窗左下角「开始」图标进入倒计时状态。
 
-![adrnewpomo2](../images/android/adrnewpomo1.png)
+![adrnewpomo2](../images/android/andnewpomo1.png)
 
 #### 在番茄过程中选择/更改任务
 
@@ -40,7 +40,7 @@
 
 选定任务后，再次点击「选择任务」图标，可以更改任务。
 
-![andnewpomo2](../images/android/adrnewpomo2.jpg)
+![andnewpomo2](../images/android/andnewpomo2.png)
 
 #### 番茄白噪音
 
@@ -52,7 +52,7 @@
 
 `注：一次只能选择一个白噪音，不可叠加多个声音。`
 
-![andnewpomo3](../images/android/andnewpomo3.jpg)
+![andnewpomo3](../images/android/andnewpomo3.png)
 
 #### 最小化番茄
 
@@ -60,7 +60,7 @@
 
 最小化后仍可以从主界面TAB栏上番茄图标的红色动态环判断番茄的状态。当一个番茄结束进入休息界面时，TAB栏上的番茄图标也会变成绿色，并且弹出休息提示弹窗。
 
-![andnewpomo4](../images/android/andnewpomo4.jpg)
+![andnewpomo4](../images/android/andnewpomo4.png)
 
 #### 预计番茄
 

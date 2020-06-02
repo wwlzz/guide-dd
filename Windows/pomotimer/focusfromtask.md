@@ -4,13 +4,13 @@
 
 在任务列表中单击任务右键-「开始番茄」
 
-![winpomotask](../../images/Windows/pomotimer/pasted%20image%200%203.png)
+![winpomotask](../../images/Windows/pomotimer/6.3.png)
 
 在任务详情页右下角菜单中点击「更多」-「开始番茄」
 
-![winpomotask2](../../images/Windows/pomotimer/pasted%20image%200%204.png)
+![winpomotask2](../../images/Windows/pomotimer/6.4.png)
 
 任务关联的番茄完成之后，会在此任务的详情页显示具体番茄数量，用以衡量专注总时长。
 
-![winpomotask3](../../images/Windows/pomotimer/pasted%20image%200%205.png)
+![winpomotask3](../../images/Windows/pomotimer/6.5.png)
 

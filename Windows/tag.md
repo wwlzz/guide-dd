@@ -6,7 +6,7 @@
 
 在「设置」-「智能清单」中开启侧边栏显示和添加标签，在左侧边栏上会出现「标签」项。设置中，可以选择在侧边栏不显示任务数量为0的标签。
 
-![wintag1](../images/Windows/pasted%20image%200%203.png)
+![wintag1](../images/Windows/tag/5.10.png)
 
-![wintag2](../images/Windows/pasted%20image%200%204.png)
+
 

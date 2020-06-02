@@ -4,13 +4,13 @@
 
 成功创建一条任务后，进入任务详情界面，点击任务右侧的「文本」按钮，可以将文本模式转为列表模式。 列表任务可以用来添加子任务，将大任务拆分成小任务或具体步骤。 添加第一条子任务后，回车即可添加下一条子任务。
 
-![winsubtasks](../../images/Windows/task/pasted%20image%200%208.png)
+![winsubtasks](../../images/Windows/task/3.7.png)
 
 ##### 子任务描述
 
 任务详情页内，任务描述可以和子任务共存，描述可以记录备注，方便了解当前事件的具体情况。
 
-![winsubtask1](../../images/Windows/task/pasted%20image%200%209.png)
+![winsubtask1](../../images/Windows/task/3.8.png)
 
 ##### 子任务提醒
 
@@ -20,5 +20,5 @@
 
 有时间信息的子任务会显示在今天、明天、最近7天、日历和带有时间的自定义智能清单中。子任务默认是隐藏的，需要开启时，点击右上角的「...」，选择「显示子任务」，子任务就会显示在列表中。按时间排序时，子任务、任务和日历事件是根据时间混排的。 `注：子任务提醒为高级账户功能。`
 
-![winsubtask2](../../images/Windows/task/pasted%20image%200%2010.png)
+![winsubtask2](../../images/Windows/task/3.9.png)
 

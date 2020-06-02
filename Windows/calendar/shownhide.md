@@ -10,5 +10,5 @@
 
 点击日历右上角的「...」选择「显示未来重复周期」，在日历中显示重复任务的全部周期的任务。
 
-![wincaloptions](../../images/Windows/calendar/pasted%20image%200%205.png)
+![wincaloptions](../../images/Windows/calendar/4.5.png)
 

@@ -10,13 +10,13 @@
 
 `注：进入「设置」-「偏好设置」即可开启智能识别日期。` `注：不想显示文本中的日期和时间，可在「设置」-「偏好设置」-「智能识别日期」下选择「移除文本中的日期」。点击高亮的识别日期也可以取消识别。在添加时会把新任务默认设置带上，根据自己的需要在「设置」-「偏好设置」-「新任务默认设置」中进行设置。`
 
-![wincreatetask1](../../images/Windows/task/pasted%20image%200%2017.png)
+![wincreatetask1](../../images/Windows/task/3.16.png)
 
 ##### 快速添加任务窗口
 
 也可以使用全局快捷键 Ctrl+Shift+A 调出快捷添加任务窗口，输入任务，然后回车添加。
 
-![wincreatetask2](../../images/Windows/task/pasted%20image%200.png)
+![wincreatetask2](../../images/Windows/task/3.1.png)
 
 ##### 回车添加任务
 

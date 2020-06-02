@@ -4,5 +4,5 @@
 
 副本会复制原清单内的所有任务，已完成的任务和子任务都会变成未完成状态，任务列表排序，任务内容、日期、优先级、附件和原清单一致。 `注：不复制原清单的评论和隐藏状态，共享清单复制后的副本是普通清单。`
 
-![winduplicatelist](../../images/Windows/list/pasted%20image%200%2013.png)
+![winduplicatelist](../../images/Windows/list/2.11.png)
 

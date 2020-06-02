@@ -6,5 +6,7 @@
 
 如果默认提醒中没有你需要的提醒时间，可以点击「自定义」按钮，支持以「分钟」「小时」「天」为单位设置您所需要的提醒。 `注：免费用户可为单条任务设置两个提醒，高级账户最多可设置五个提醒。`
 
-![winreminder1](../../images/Windows/task/pasted%20image%200%201.png)
+![winreminder1](../../images/Windows/task/3.2.png)
+
+
 

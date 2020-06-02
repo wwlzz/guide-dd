@@ -2,7 +2,7 @@
 
 #### 欢迎使用滴答清单网页版。
 
-![](./images/web-start.png)
+![](./images/web/web-start.png)
 
 页面右上角分别为：
 

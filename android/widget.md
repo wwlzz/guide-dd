@@ -4,35 +4,35 @@
 
 * 滴答清单 （周）
 
-![](../images/android/widget%201.png)
+![](../images/android/widget201.png)
 
 * 滴答清单 （月）
 
-![](../images/android/widget%202.png)
+![](../images/android/widget202.png)
 
 * 滴答清单 （三日）
 
-![](../images/android/widget%207.png)
+![](../images/android/widget207.png)
 
 * 滴答清单 （标准）
 
-![](../images/android/widget%203.png)
+![](../images/android/widget203.png)
 
 * 滴答清单 （紧凑）
 
-![](../images/android/widget%204.png)
+![](../images/android/widget204.png)
 
 * 滴答清单 （翻页）
 
-![](../images/android/widget%205.png)
+![](../images/android/widget205.png)
 
 * 滴答清单 （角标）
 
-![](../images/android/widget%206.png)
+![](../images/android/widget206.png)
 
 * 滴答清单（番茄计时）
 
-![](../images/android/d0567634gy1foxanvv58ij21kw18iaxm.jpg)
+![](../images/android/fanqiejishixiaobujian.png)
 
 您可以根据自己的喜好，使用习惯和桌面空间来自行选择。选择合适的小部件能提高效率，方便使用。
 
@@ -60,7 +60,7 @@
 * 显示已完成：标准和翻页小部件中可以选择隐藏还是显示已完成任务，在紧凑小部件中为了缩少部件在桌面上占用的空间是不显示已完成任务的。
 * 点击任务：在紧凑小部件中可以选择点击任务后是打开清单还是打开该任务详情页，标准和翻页小部件中点击任务就是打开任务的详情页。
 
-![](../images/android/widget%20setting.png)
+![](../images/android/widgetsetting.png)
 
 #### 调整合适的大小
 
