@@ -1,0 +1,5 @@
+gitbook build &&
+mkdir _book/nlp && cp _book/smartdateparsingrules.html _book/nlp/index.html &&
+mkdir _book/filter && cp _book/customsmartlistrules.html _book/filter/index.html &&
+cp _book/asands.html _book/achievement.html
+
