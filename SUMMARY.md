@@ -126,4 +126,5 @@
 * [自定义智能清单特殊规则](customsmartlistrules.md)
 * [智能日期识别规则示例](smartdateparsingrules.md)
 * [勋章](badges.md)
+* [成就值](achivement).md)
 * [反馈](feedback.md)
