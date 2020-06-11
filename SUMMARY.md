@@ -33,7 +33,7 @@
     * [标签排序](android/tag/sort.md)
   * [日历](android/calendar.md)
   * [桌面小部件](android/widget.md)
-  * [番茄计时](android/pomotimer.md)
+  * [计时](android/pomotimer.md)
   * [打卡](android/habit.md)
 * [iOS应用](iOS.md)
   * [账户设置](iOS/account.md)
