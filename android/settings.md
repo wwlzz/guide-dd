@@ -28,7 +28,3 @@
 可以将数据从第三方应用中直接导入滴答清单安卓版，包括：Todoist、Any.do。
 
 ![smartdateand](../images/android/setting/smartdateand.png)
-
-
-
-

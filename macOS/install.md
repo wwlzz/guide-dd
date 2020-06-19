@@ -1,4 +1,4 @@
-#### 下载滴答清单 macOS版
+#### 下载滴答清单 Mac 版
 
 您可以在滴答清单官网 & App Store 中下载 macOS 客户端，下载地址：https://www.dida365.com/static/getApp/download?type=mac
 
