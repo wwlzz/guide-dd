@@ -1,6 +1,7 @@
 ## 设置
 
 在设置页，个人头像的下方，可以找到下列基础设置的入口：
+
 #### 功能模块
 滴答清单主界面底部选项卡支持自行配置。只需要在设置中点击「功能模块」，即可根据需要在滴答清单主界面选项卡内启用/关闭以下功能：日历、专注、打卡、搜索、设置。
 ![tabbarand](../images/android/setting/tabbarand.png)
@@ -22,7 +23,6 @@
 ![remindernotworking](../images/android/setting/remindernotworking.png)
 
 #### 导入与关联应用
-
 在「导入与关联应用中」可对「订阅日历」进行设置，可以将本地日历中的事件导入或者可以订阅其他日历事件到滴答清单中。<br >更多与订阅日历相关的内容请参考 [2.8.日历](../android/calendar.md)
 
 可以将数据从第三方应用中直接导入滴答清单安卓版，包括：Todoist、Any.do。
