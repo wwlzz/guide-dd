@@ -8,7 +8,7 @@
 
 滴答清单通用于「Android应用」、「iOS应用」、「Web端」、「Windows客户端」和「Mac客户端」等多个平台。同时, 滴答清单有自己的云端 dida365.com , 可以让您在电脑上操作和备份任务数据。
 
-立即在所有平台上安装最新版滴答清单：[点击选择安装](https://www.dida365.com/about/download)
+立即在所有平台上安装最新版滴答清单：[点击选择安装]。(https://www.dida365.com/about/download)
 
 ### 3.  滴答清单是免费的吗?
 
