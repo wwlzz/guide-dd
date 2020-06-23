@@ -25,7 +25,7 @@
 #### 导入与关联应用
 在「导入与关联应用中」可对「订阅日历」进行设置，可以将本地日历中的事件导入或者可以订阅其他日历事件到滴答清单中。<br >更多与订阅日历相关的内容请参考 [2.9.日历](../android/calendar.md)
 
-可以将数据从第三方应用中直接导入滴答清单安卓版，包括：Todoist、Any.do。
+可以将数据从第三方应用中直接导入滴答清单安卓版，包括：Todoist、Any.do等。
 
 ![smartdateand](../images/android/setting/smartdateand.png)
 
