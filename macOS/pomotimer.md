@@ -22,7 +22,7 @@
 在 Mini 窗口内，切换至专注页面，点击「开始专注」即可开始专注计时。
 ![webpomo4](images/web/webpomo4.png)
 
-进入计时后，点击右上角的「···」图标，可以对计时进行个性化配置：
+进入计时后，点击右上角的「···」图标，可以对计时进行个性化配置。
 ![iospomo2](../images/ios/pomo/pomosettings.png)
 
 
