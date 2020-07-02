@@ -19,7 +19,7 @@
 ![webpomo4](images/web/webpomo4.png)
 #### 在提醒弹窗中开启
 
-但一个任务的提醒弹窗出现时，点击弹窗上的「开始专注」选项，即可开始专注。
+当一个任务的提醒弹窗出现时，点击弹窗上的「开始专注」选项，即可开始专注。
 ![webpomo5](images/web/webpomo5.png)
 
 
