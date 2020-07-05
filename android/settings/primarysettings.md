@@ -26,7 +26,7 @@
 ![remindernotworking](../images/android/setting/remindernotworking.png)
 
 ### 导入与关联应用
-在「导入与关联应用」中可对「订阅日历」进行设置，可以将本地日历中的事件导入滴答清单，也可以订阅其他日历事件到滴答清单中。更多与订阅日历相关的内容请参考 [2.9.日历](../android/calendar.md)
+在「导入与关联应用」中可对「订阅日历」进行设置，可以将本地日历中的事件导入滴答清单，也可以订阅其他日历事件到滴答清单中。更多与订阅日历相关的内容请参考 [日历](../android/calendar/subscription.md)。
 
 可以将数据从第三方应用直接导入滴答清单 Android 应用中，包括：Todoist、Any.do等。
 
