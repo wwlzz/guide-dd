@@ -7,7 +7,7 @@
 ![tabbarand](../images/android/setting/tabbarand.png)
 
 ### 外观
-点击进入后，可以对滴答清单的 「主题」和「字体大小」进行设置。
+点击进入后，可以对滴答清单的 「主题」「应用图标」和「字体大小」进行设置。
 
 ![andtheme](../images/android/setting/andtheme.png)
 
@@ -35,12 +35,6 @@
 #### 完成提示音
 
 可选择任务打钩完成时的提示音效，如果您不希望有提示音，也可以选择「无」。 
-
-![ioscompletion](../../images/ios/account/completionsound.jpg)
-
-#### 共享清单的默认通知
-
-可选择在所有共享清单内默认接收**完成/取消完成了任务**、**添加了任务**和**删除/移走了任务**类型的通知。如果手动更改过某个共享清单的通知类型，那么此默认设置将不再对该共享清单生效。 
 
 ![ioscompletion](../../images/ios/account/completionsound.jpg)
 
