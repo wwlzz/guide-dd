@@ -6,9 +6,6 @@
 
 使用前，首先可以确认左侧边栏中是否已经开启显示标签。开启后，标签会和其他的智能清单如：「收集箱」、「今天」等显示在一起。
 
-![iosshowtag](../../images/ios/tag/showtaginsidebar1.jpg)
 
 如果左侧边栏没有看到标签，可以在「设置」-「智能清单与标签」-「标签」- 选择为「显示」即可。
-
-![iosshowtag2](../../images/ios/tag/showtaginsidebar2.jpg)
 

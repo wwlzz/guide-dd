@@ -1,6 +1,5 @@
 ## 帐号设置
 
-![iospersonalsettings](../images/ios/account/profile.jpg)
 ### 上传头像
 
 点击「设置」头像栏 -「头像」，支持拍照和本地照片。

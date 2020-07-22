@@ -4,7 +4,7 @@
 
 在「设置」-「实验功能」中，选择开启「打卡」即可。
 
-![](../images/android/habit/show.png)
+![](../../images/web/47.png)
 
 ### 添加习惯
 
@@ -12,5 +12,4 @@
 
 添加习惯时可以对**频率**、**目标**、**提醒**和是否**自动显示打卡日志**进行设置。
 
-
-![](../images/android/habit/add.png)
+![](../../images/web/48.png)

@@ -2,13 +2,11 @@
 
 为任务设置提醒时间后，滴答清单将按时提醒您，避免您错过重要的任务。
 
-![](../../images/android/task/Settingtime.png)
+![images35](../../images/mac/10.png)
 
 进入任务详情页，设置好时间后，点击日期和时间栏可以添加提醒，滴答清单支持自定义提醒时间：如提前 45 分钟、提前 4 小时等。 
 
-![](../../images/android/task/Setalert.png)
-
 若不需要任务提醒，您可以清除任务的到期时间和提醒。 点击任务日期栏，点击右上角的「···」，选择「清除日期」即可，任务会清除日期，也不再提醒。
 
-![](../../images/android/task/reminder.png)
+![images35](../../images/mac/11.png)
 

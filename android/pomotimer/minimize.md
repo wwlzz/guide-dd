@@ -4,4 +4,4 @@
 
 最小化后仍可以从主界面 TAB 栏上番茄图标的主题色动态环判断专注的状态。当一个番茄结束进入休息界面时，TAB 栏上的番茄图标也会变成绿色，并且弹出休息提示弹窗。
 
-![andnewpomo4](../images/android/andnewpomo4.png)
+![](../../images/android/93.png)

@@ -2,11 +2,9 @@
 
 当需要编辑或删除标签时，可以在左侧边栏中通过左滑该标签，选择「编辑」或「删除」。
 
-![iosedittag1](../../images/ios/tag/editanddeletetag1.jpg)
-
 也可以在设置页面内，找到「智能清单与标签」-「标签」，对标签进行编辑或删除。
 
-![iosedittag2](../../images/ios/tag/editanddeletetag2.jpg)
+![](../../images/ios/61.png)
 
 成功操作后，所有包含这个标签的任务都会对应更新。如果选择删除某标签，该标签会从任务中移除，但任务并不会被删除。
 

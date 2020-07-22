@@ -4,10 +4,9 @@
 
 在「设置」-「功能模块」中，选择开启「打卡」即可。
 
-![](../images/android/habit/show.png)
-
 ### 添加习惯
 
 点击右下角的「+」，即可添加习惯。如果「习惯库」中没有您需要的习惯，可以点击底部的「自定义习惯」来创建自定义习惯。
 
-![](../images/android/habit/add.png)
+![](../../images/android/59.png)
+

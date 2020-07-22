@@ -6,4 +6,4 @@
 
 选择**在侧边栏显示任务数不为0的标签**后，可自动隐藏没有在使用的标签。
 
-![webtag1](../images/web/showtag.png) 
+![images32](../../images/windows/32.png)

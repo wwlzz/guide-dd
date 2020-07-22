@@ -3,13 +3,16 @@
 ### 在任务列表中开启
 
 在任务列表页，将鼠标移动到需要专注的任务栏右侧，出现的「···」图标，然后选择「开始专注」即可。
-![webpomo3](images/web/webpomo3.png)
+
+![](../../images/web/44.png)
+
+
 ### 在任务详情页中开启
 
 在任务详情页，点击右下角的「···」图标，选择「开始专注」即可。
-![webpomo4](images/web/webpomo4.png)
+![](../../images/web/45.png)
+
 ### 在提醒弹窗中开启
 
 当一个任务的提醒弹窗出现时，点击弹窗上的「开始专注」选项，即可开始专注。
-![webpomo5](images/web/webpomo5.png)
 

@@ -4,8 +4,7 @@
 
 `注：如果选择「删除」，那么该习惯的所有打卡数据都将删除，且无法恢复。`
 
-![](../images/android/habit/archive1.png)
+![images35](../../images/windows/61.png)
 
 另外，可以在打卡主界面中切换到「已归档」来查看已归档的习惯，右键某个习惯，选择「恢复习惯」，即可恢复打卡。
 
-![](../images/android/habit/archive2.png)

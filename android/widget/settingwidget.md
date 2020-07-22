@@ -6,37 +6,39 @@
 
 * 滴答清单 （周）
 
-![](../images/android/widget201.png)
-
+![](../../images/android/44.png)
 * 滴答清单 （月）
 
-![](../images/android/widget202.png)
 
+![](../../images/android/45.png)
 * 滴答清单 （时间轴）
 
-![](../images/android/widget207.png)
 
+![](../../images/android/46.png)
 * 滴答清单 （标准）
 
-![](../images/android/widget203.png)
 
+![](../../images/android/47.png)
 * 滴答清单 （紧凑）
 
-![](../images/android/widget204.png)
 
+![](../../images/android/48.png)
 * 滴答清单 （翻页）
 
-![](../images/android/widget205.png)
 
+![](../../images/android/49.png)
 * 滴答清单 （角标）
 
-![](../images/android/widget206.png)
 
+![](../../images/android/50.png)
 * 滴答清单（番茄）
 
-![](../images/android/fanqiejishixiaobujian.png)
 
+![](../../images/android/51.png)
 * 滴答清单（今日习惯）
+
+
+![](../../images/android/52.png)
 
 您可以根据自己的喜好，使用习惯和桌面空间来自行选择。
 
@@ -48,6 +50,7 @@
 ### 设置桌面小部件
 
 当您选中某个桌面小部件后，可以先对其进行配置。每个小部件配置的选项都不太相同。
+
 
 时间轴（可选择**日试图**和** 3 日试图**）、周、月这三个小部件的设置选项如下：
 
@@ -70,7 +73,6 @@
 * 显示已完成：标准和翻页小部件中可以选择是否显示显示已完成任务；
 * 点击任务：在紧凑小部件中可以选择点击任务后是打开清单还是打开该任务详情页，标准和翻页小部件中点击任务就是打开任务的详情页。
 
-![](../images/android/widgetsetting.png)
 
 ### 小部件列表中没有滴答清单
 
