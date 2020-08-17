@@ -2,7 +2,7 @@
 
 #### 欢迎使用 Web 端滴答清单。
 
-![](images/Web/1.png)
+![](images/web/1.png)
 
 页面右上角分别为：
 
