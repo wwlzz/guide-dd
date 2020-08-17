@@ -1,4 +1,5 @@
 # Summary
+<<<<<<< HEAD
 * [开始使用滴答清单](README.md)
 * [Web 端](web.md)
   * 关于滴答清单
@@ -64,6 +65,71 @@
     * [更多设置](android/settings/avancedsettings.md)
   * 创建与管理任务
     * [创建任务](android/task/starttask.md)
+=======
+<<<<<<< HEAD
+
+* [开始使用滴答清单](README.md)
+  * [关于滴答](guan_yu_dida.md)
+* [网页端](ticktick_web_app/README.md)
+  * [账户设置](ticktick_web_app/account_settings.md)
+  * [清单管理](ticktick_web_app/list_management.md)
+  * [任务创建以及管理](ticktick_web_app/task_management.md)
+  * [日历管理](ticktick_web_app/calendar_subscription.md)
+  * [数据](ticktick_web_app/shu_ju.md)
+  * [筛选](ticktick_web_app/shai_xuan.md)
+  * [浏览器插件](chrome_extension_app/README.md)
+* [安卓应用](android_app/README.md)
+  * [注册和登录](android_app/1_account.md)
+  * [偏好设置](android_app/7_more_setting.md)
+  * [高级选项](android_app/gao_ji_xuan_xiang.md)
+  * [清单](android_app/4_create&manage_list.md)
+    * [创建及管理清单](android_app/chuang_jian_qing_dan.md)
+  * [创建任务](android_app/2_create_new_task.md)
+    * [设置提醒](android_app/2_create_remind.md)
+    * [设置重复周期](android_app/2_create_new_repeat.md)
+  * [管理任务](android_app/3_manage_tasks.md)
+  * [日历](android_app/3_manage_calender_view.md)
+  * [桌面小部件](android_app/widget.md)
+* [iOS应用](ios_app/README.md)
+  * [账户设置](ios_app/1_account.md)
+    * [偏好设置](ios_app/1_account_change_password.md)
+    * [高级选项](ios_app/1_account_upgrade.md)
+  * [创建及管理清单](ios_app/4_create&manage_list.md)
+  * [创建任务](ios_app/2_create_new_task.md)
+    * [设置提醒](ios_app/2_create_remind.md)
+    * [设置重复任务](ios_app/2_create_new_repeat.md)
+  * [管理任务](ios_app/3_manage_tasks.md)
+    * [日历](ios_app/3_manage_calender_view.md)
+  * [分享和协作](ios_app/5_share_lists.md)
+* [微信公众号](wechat/README.md)
+* [自定义智能清单特殊规则](filter/README.md)
+* [反馈](feedback/README.md)
+
+=======
+* [开始使用滴答清单](README.md)
+  * [关于滴答](getstarted/aboutdida.md)
+* [网页端](web.md)
+  * [账户设置](web/account.md)
+  * [清单管理](web/list.md)
+  * [任务创建以及管理](web/task.md)
+  * [看板模式](web/kanban.md)
+  * [日历管理](web/calendar.md)
+  * [标签](web/tag.md)
+  * [番茄计时](webpomo.md)
+  * [数据](web/data.md)
+  * [筛选](web/filter.md)
+  * [浏览器插件](web/addon.md)
+  * [摘要](web/summary.md)
+  * [统计](web/statistics.md)
+  * [垃圾桶](web/trash.md)
+* [安卓应用](android.md)
+  * [注册和登录](android/account.md)
+  * [设置](android/preference.md)
+  * [更多设置](android/advancedsettings.md)
+  * [清单](android/list.md)
+    * [创建及管理清单](android/list/managelist.md)
+  * [创建任务](android/task.md)
+>>>>>>> b931741e842413c9f2e0c5f545b24adc9b457d2f
     * [设置提醒](android/task/reminder.md)
     * [设置重复任务](android/task/recurring.md)
     * [列表模式管理任务](android/task/managetask1.md)
@@ -283,4 +349,9 @@
 * [成就值与统计](achievement_score.md)
 * [勋章](badges.md)
 * [智能日期识别规则示例](smartdateparsingrules.md)
+<<<<<<< HEAD
 * [自定义智能清单特殊规则](customsmartlistrules.md)
+=======
+* [反馈](feedback.md)
+>>>>>>> c451bc7ad7458362cd19ecf532556d7e701d9c43
+>>>>>>> b931741e842413c9f2e0c5f545b24adc9b457d2f
