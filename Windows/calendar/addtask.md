@@ -4,11 +4,11 @@
 
 在周视图时间轴上选中网格添加任务带上时间点。
 
-![wincaladd1](../../images/Windows/calendar/4.1.png)
+![wincaladd1](../../images/pc/calendar/4.1.png)
 
 月视图和周视图全天任务区域中，鼠标拖动选中多个网格可以创建跨天任务。
 
-![wincaladd2](../../images/Windows/calendar/4.2.png)
+![wincaladd2](../../images/pc/calendar/4.2.png)
 
 鼠标在时间轴区域中拖动可以创建时间段任务。
 
